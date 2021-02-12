@@ -1,6 +1,8 @@
 # SimpleLogger
 Simple PSR-3 compliant logger; less than 200 SLOC and 4 files.
 
+Only one dependency, `psr/log`, use this package with confidence.
+
 This was originally a library that I developed for my own projects, but I thought it might be worth sharing. If you have any comments or spot a bug, feel free to open an issue.  
 
 Tests will eventually come later.
